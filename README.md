@@ -43,4 +43,5 @@ This tool is particularly useful for journalists, students, researchers, content
  
  *OUTPUT*:
 
+![Image](https://github.com/user-attachments/assets/8691c769-e788-4408-ac77-4726ef92224f)
  
